@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+
+  }
+
+/* *{
+    color: blue;
+} */
+
+/* a[href="#Biography"]{
+    color: blue;
+} */
+
+/* p::first-letter{
+    color: blue;
+    text-transform: uppercase;
+} */
+    
+  #testcase{
+    text-emphasis: "\25B2";
+
+  }
