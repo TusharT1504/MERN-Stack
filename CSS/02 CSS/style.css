@@ -50,3 +50,16 @@ h1 {
     overflow: auto;
   
 }
+
+.box5{
+  border: 1px solid black;
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+
+  /* background-image: conic-gradient(red, black, green); */
+  box-shadow: 10px 0px black, -10px 0px black, 0px -10px black,0px 10px black,0px 0px 0px 10px black;
+  /* box-shadow: 10px 10px black inset; */
+
+
+}

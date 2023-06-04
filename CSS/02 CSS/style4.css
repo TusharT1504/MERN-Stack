@@ -1,0 +1,48 @@
+#box {
+  /* margin-left: 400px;
+    margin-top: 50px; */
+
+  border: 1px solid black;
+  height: 500px;
+  width: 500px;
+
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+#p1 {
+  background-color: aqua;
+}
+
+#p2 {
+  background-color: aqua;
+
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+
+}
+
+#p3 {
+  background-color: aqua;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+#p4 {
+  background-color: aqua;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+#p5 {
+  background-color: aqua; 
+
+  position: absolute;
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%)   
+}
